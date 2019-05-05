@@ -1,0 +1,44 @@
+
+.conteudo{
+
+    width: 50%;
+    height: 250px;
+    background-color: ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    position: relative;
+
+}
+.imagem {
+  width: 110px;
+  height:50px;
+  background-color: ;
+  margin-left: 40%;
+  background-image: url("../imagens/logosabion.png");
+    background-repeat: no-repeat;
+  background-size: 110px 50px;
+
+
+}
+.textoFront{
+  width: 80%;
+  height: 40px;
+  background-color: ;
+  text-align: center;
+  margin-left: 8%;
+  font-size: 35px;
+  font-family: arial;
+  color: rgb(131, 0, 248);
+  margin-top: 15px;
+}
+.textoCabecalhoA{
+
+  color: rgb(255, 196, 2);
+  font-weight: bold;
+}
+.textoCabecalhoB{
+color: rgb(131, 0, 248);
+font-weight: bold;
+
+}

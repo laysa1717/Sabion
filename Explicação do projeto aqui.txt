@@ -1,0 +1,18 @@
+Desenvolvi todo o projeto em html e css para não precisar de nenhum outro programa necessário
+para rodar. ex: apache
+
+Para abrir o projeto, basta baixar o repositorio e abrir a página "index.html" com algum
+navegador.
+
+Observações: Por falta de recurso não foi desenvolvido nada em js e por falta de tempo
+não foi desenvolvido de modo responsivo.
+Também não achei uma fonte que seja parecida com a do layout, então deixei padrão.
+
+Falta de recurso:
+Atualmente estou sem uma boa máquina em casa para desenvolver jobs, usei um computador emprestado onde eu não tinha a 
+senha de adm e não pude baixar ferramentas que me auxiliasse no desenvolvimento.
+
+
+Espero que atenda comparando com o tempo disponibilizado para o desenvolvimento.
+
+Obrigada.
